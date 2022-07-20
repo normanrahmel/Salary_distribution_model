@@ -1,4 +1,5 @@
 public abstract class Mitarbeiter {
+
     private String personalNummer;
     private String vorname;
     private String name;
